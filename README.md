@@ -88,7 +88,11 @@ These are Dubai's established commercial cores — reasonable face validity.
 ---
 
 ## How to run
+## Dataset
+The full dataset is too large for GitHub.
 
+Download it here:
+[https://drive.google.com/your-link](https://drive.google.com/drive/folders/1iYGrKL19cvJ_-lNrIPpj5EA_NK7K_VWV?usp=drive_link)
 The notebooks were developed on **Google Colab** with data in Google Drive. Run in order:
 
 ```
