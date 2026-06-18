@@ -1,0 +1,16 @@
+# OS junk
+.DS_Store
+**/.DS_Store
+._*
+
+# Large raw / intermediate data (not committed per course guidance)
+DATA/*.zip
+DATA/transactions_raw.csv
+DATA/rent_contracts_raw.csv
+DATA/transaction_processedb4agg.csv
+DATA/rents_preprocessed_final1.0.csv
+
+# Python / notebook
+__pycache__/
+*.pyc
+.ipynb_checkpoints/

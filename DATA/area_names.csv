@@ -1,0 +1,260 @@
+area_id,area_name_en
+229.0,Um Suqaim
+230.0,Abu Hail
+231.0,Al Mamzer
+232.0,Mirdif
+233.0,Hor Al Anz
+234.0,Hor Al Anz East
+235.0,Eyal Nasser
+236.0,Burj Nahar
+237.0,Al Sabkha
+238.0,Al Dhagaya
+239.0,Al Baraha
+240.0,Port Saeed
+241.0,Al Qusais Old
+242.0,Al Ras
+243.0,Al-Safiyyah
+244.0,Al Murqabat
+245.0,Al-Murar Qadeem
+246.0,Al-Murar Jadeed
+247.0,Al Khabeesi
+248.0,Um Ramool
+249.0,Al Muteena
+250.0,Al-Souq Al Kabeer (Deira)
+251.0,Naif South
+252.0,Al-Riqqa East
+253.0,Al-Riqqa West
+254.0,Al Buteen
+255.0,Rega Al Buteen
+256.0,Al-Tawar
+257.0,Al Khawaneej
+258.0,Muhaisna
+259.0,Al-Musalla (Deira)
+262.0,Al-Zarouniyyah
+263.0,Al-Nahdah
+264.0,Nad Al Hamar
+265.0,Al-Muhaisnah North
+266.0,Al Satwa
+267.0,Al Raffa
+268.0,Al Musalla (Dubai)
+269.0,Al Hamriya
+270.0,Al Safaa
+271.0,Al Karama
+272.0,Al Baharna
+273.0,Al-Baloosh
+274.0,Shandagha East
+275.0,Shandagha West
+276.0,Al Bada
+277.0,Al Qoaz
+278.0,Mankhool
+279.0,Tawaa Al Sayegh
+280.0,Zareeba Duviya
+281.0,Al Asbaq
+282.0,Ras Al Khor
+283.0,Al Fahidi
+284.0,Jabal Ali
+285.0,Nad Al Shiba
+288.0,Al Marmoom
+292.0,Al Barsha
+294.0,Lehbab
+295.0,Margham
+296.0,Al Ruwayyah
+297.0,Al Warqa First
+298.0,Al Warqa Third
+299.0,Al Warqa Fourth
+300.0,Al Rashidiya
+301.0,Al Nahda Second
+302.0,Tawi Al Muraqqab
+303.0,Um Suqaim First
+304.0,Um Suqaim Second
+305.0,AL QUSAIS
+306.0,Al Twar Fourth
+307.0,Al Safouh First
+308.0,Al Goze Industrial First
+309.0,Al Goze Industrial Third
+310.0,Al Twar Second
+311.0,Muhaisanah Third
+312.0,Muhaisanah First
+313.0,Al Saffa First
+314.0,Al Saffa Second
+315.0,Al Manara
+316.0,Al Mizhar First
+317.0,Jumeirah First
+318.0,Jumeirah Third
+319.0,Ras Al Khor Industrial Second
+320.0,Al Qusais Industrial Second
+321.0,Al Qusais Industrial Third
+322.0,Al Qusais Industrial Fourth
+323.0,Al Qusais Industrial Fifth
+325.0,Um Hurair First
+326.0,Um Hurair Second
+327.0,Nad Shamma
+328.0,Al Jafliya
+329.0,Trade Center Second
+330.0,Marsa Dubai
+331.0,Zaabeel First
+332.0,Zaabeel Second
+333.0,Madinat Dubai Almelaheyah
+334.0,Al Jadaf
+335.0,Nad Al Shiba First
+336.0,Nad Al Shiba Second
+337.0,Nad Al Shiba Third
+338.0,Al Goze First
+339.0,Al Mararr
+340.0,Ghadeer Al tair
+341.0,Trade Center First
+342.0,Ras Al Khor Industrial Third
+343.0,Al Warsan First
+344.0,Al Warsan Second
+345.0,Al Warsan Third
+347.0,Al Goze Third
+348.0,Al Goze Fourth
+349.0,Grayteesah
+350.0,Al Thanyah Fifth
+351.0,Al Thanyah Third
+352.0,Al Thanayah Fourth
+354.0,Al Warqa Second
+355.0,Al Nahda First
+356.0,Al Rega
+357.0,AL TWAR FIFTH
+358.0,Al Twar First
+359.0,Al Twar Third
+360.0,Muhaisanah Second
+361.0,Muhaisanah Fourth
+362.0,Naif
+363.0,Al Qusais Industrial First
+364.0,Al Wasl
+365.0,Al Hudaiba
+366.0,Al Kifaf
+367.0,Al Suq Al Kabeer
+368.0,Al Barsha First
+369.0,Al Barsha Third
+370.0,Um Suqaim Third
+371.0,Al Safouh Second
+372.0,Al Goze Industrial Second
+373.0,Al Goze Industrial Fourth
+374.0,Um Al Sheif
+375.0,Jumeirah Second
+376.0,Ras Al Khor Industrial First
+377.0,Al-Nakhal
+378.0,Al Garhoud
+379.0,Al-Shumaal
+380.0,Al Mizhar
+382.0,Al Waheda
+383.0,Jumeirah
+384.0,Bur Dubai
+385.0,Muashrah Al Bahraana
+386.0,Al-Raulah
+387.0,Al-Bastakiyah
+388.0,Oud Metha
+390.0,Burj Khalifa
+391.0,Al Lusaily
+392.0,Nazwah
+393.0,Al Barsha Second
+394.0,Al Mizhar Second
+395.0,Jabal Ali Industrial First
+396.0,Al Khawaneej First
+397.0,Al Khawaneej Second
+398.0,Al Aweer First
+399.0,Al Aweer Second
+400.0,Al Eyas
+401.0,Wadi Al Amardi
+402.0,AL MIZHAR FOURTH
+403.0,Al Mizhar Third
+404.0,Mushrif
+405.0,Bukadra
+406.0,Nad Al Shiba Fourth
+409.0,Al Barshaa South Third
+410.0,Palm Jumeirah
+411.0,Palm Jabal Ali
+412.0,Al Merkadh
+413.0,World Islands
+414.0,Al Barshaa South Second
+415.0,Al Barshaa South First
+416.0,Cornich Deira
+417.0,Sikkat Al Khail North
+418.0,Naif North
+419.0,Sikkat Al Khail South
+420.0,Mushrif
+421.0,Al-Mustashfa West
+423.0,Al-Aweer
+424.0,Al-Qiyadah
+425.0,Al-Dzahiyyah Al-Jadeedah
+427.0,Nad Rashid
+430.0,Dubai International Airport
+431.0,Al-Cornich
+432.0,Palm Deira
+434.0,Wadi Al Safa 6
+435.0,Al Hebiah Fourth
+436.0,Festival City First
+437.0,Al Kheeran
+438.0,Al Ttay
+441.0,Al Barsha South Fourth
+442.0,Al Barsha South Fifth
+443.0,Al Thanyah First
+444.0,Al Hebiah First
+445.0,Jabal Ali First
+447.0,Al Khairan First
+448.0,Al Khairan  Second
+449.0,Al Yufrah 2
+451.0,Al Hebiah Fifth
+452.0,Al Hebiah Second
+453.0,Saih Shuaib 2
+454.0,Saih Shuaib 3
+455.0,Saih Shuaib 4
+458.0,Dubai Investment Park First
+459.0,Dubai Investment Park Second
+462.0,Madinat Al Mataar
+463.0,Wadi Al Safa 7
+464.0,Wadi Al Safa 2
+465.0,Wadi Al Safa 3
+466.0,Wadi Al Safa 4
+467.0,Wadi Al Safa 5
+468.0,Yaraah
+469.0,Al Yufrah 1
+470.0,Al Faga'A
+471.0,Al Rowaiyah Third
+473.0,AL Athbah
+476.0,Jabal Ali Third
+477.0,Mena Jabal Ali
+478.0,Jabal Ali Industrial Second
+479.0,Jabal Ali Industrial Third
+480.0,Saih Shuaib 1
+481.0,Hessyan Second
+482.0,Hadaeq Sheikh Mohammed Bin Rashid
+483.0,Warsan Fourth
+484.0,Nadd Hessa
+485.0,Me'Aisem First
+486.0,Me'Aisem Second
+489.0,Lehbab First
+492.0,Al Rowaiyah First
+493.0,Al Rowaiyah Second
+494.0,Umm Addamin
+496.0,Le Hemaira
+497.0,Lehbab Second
+499.0,Al Maha
+500.0,Um Esalay
+501.0,Remah
+502.0,Madinat Hind 1
+503.0,Madinat Hind 2
+504.0,Madinat Hind 3
+505.0,Madinat Hind 4
+506.0,Al Yelayiss 1
+507.0,Al Yelayiss 2
+508.0,Al Yelayiss 3
+509.0,Al Yelayiss 4
+510.0,Al Yelayiss 5
+513.0,Madinat Latifa
+514.0,Ghadeer Barashy
+515.0,Saih Aldahal
+518.0,Mugatrah
+519.0,Al Layan1
+522.0,Hessyan First
+523.0,Al Hebiah Third
+524.0,Muragab
+525.0,Hatta
+526.0,Business Bay
+527.0,Island 2
+528.0,Al Yufrah 3
+529.0,Al Yufrah 4
+531.0,Al Hebiah Sixth
