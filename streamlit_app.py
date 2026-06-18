@@ -83,16 +83,19 @@ def find_file(names):
     return None
 
 @st.cache_data
+def _read_csv(path_str):
+    return pd.read_csv(path_str)
+
 def load_data():
     fp = find_file(["dashboard_data.csv", "FINAL_DATASET.csv", "final_dataset.csv"])
     if fp is None:
-        return None
-    df = pd.read_csv(fp)
+        return None          # not cached, so moving the file in + Rerun picks it up
+    df = _read_csv(str(fp))
     df['area_id'] = df['area_id'].astype(float).astype(int)
     if 'area_name_en' not in df.columns:
         np_ = find_file("area_names.csv")
         if np_ is not None:
-            n = pd.read_csv(np_); n['area_id'] = n['area_id'].astype(float).astype(int)
+            n = _read_csv(str(np_)); n['area_id'] = n['area_id'].astype(float).astype(int)
             df = df.merge(n.drop_duplicates('area_id')[['area_id','area_name_en']], on='area_id', how='left')
     df['District'] = df.get('area_name_en', pd.Series(dtype=object)).fillna('Area ' + df['area_id'].astype(str))
     return df
@@ -100,6 +103,10 @@ def load_data():
 df = load_data()
 if df is None:
     st.warning("Couldn't find **dashboard_data.csv**. Upload it below to continue.")
+    with st.expander("Diagnostic — where I looked"):
+        st.write("Working dir:", str(Path.cwd()))
+        st.write("App location:", str(Path(__file__).resolve()))
+        st.write("Folders searched:", [str(d) for d in _dirs()])
     up = st.file_uploader("Upload dashboard_data.csv (or FINAL_DATASET.csv)", type="csv")
     if up is None:
         st.stop()
