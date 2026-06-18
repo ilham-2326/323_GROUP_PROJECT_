@@ -1,4 +1,5 @@
 # Dubai Commercial Office Hotspot Recommender
+streamlit link: https://323groupproject-28u9xhvgfvijl2h4ksquou.streamlit.app/ 
 
 A data-driven decision-support tool that scores and ranks Dubai districts by how attractive they are
 for opening a new **commercial office**, built from public Dubai Land Department (DLD) and Ejari data
